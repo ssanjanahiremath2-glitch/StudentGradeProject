@@ -1,5 +1,5 @@
 
-from main import calculate_grade
+from mainn import calculate_grade
 
 def test_grade_s():
     assert calculate_grade(95) == "S"
